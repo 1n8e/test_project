@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:bloc/bloc.dart';
-import 'package:test_project/data/contacts_data/contacts_data.dart';
+import 'file:///C:/Users/natem/dev/test_project/lib/data/contacts_data.dart';
 import 'package:test_project/models/contacts_model.dart';
 
 part 'contacts_event.dart';

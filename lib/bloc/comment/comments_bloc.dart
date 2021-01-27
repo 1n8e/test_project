@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:bloc/bloc.dart';
-import 'package:test_project/data/data_comment/comment_data.dart';
+import 'file:///C:/Users/natem/dev/test_project/lib/data/comment_data.dart';
 import 'package:test_project/models/comment_model.dart';
 
 part 'comments_event.dart';

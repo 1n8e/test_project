@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:bloc/bloc.dart';
-import 'package:test_project/data/album_and_photo_data/album_and_photo_data.dart';
+import 'file:///C:/Users/natem/dev/test_project/lib/data/album_and_photo_data.dart';
 import 'package:test_project/models/album_model.dart';
 import 'package:test_project/models/photo_model.dart';
 
